@@ -1,11 +1,11 @@
 Summa
 =====
-Daylight Saving Examples in C
+Practical examples of C programming language to save the day
 
 ## Examples
 
 ### [benchmark-server.c](https://github.com/yaa110/Summa/blob/master/src/benchmark-server.c)
-Creates a socket to perform download or upload benchmark tests.
+Creates a socket to perform download and upload benchmark tests.
 
 **Compile** `make benchmark-server`
 
