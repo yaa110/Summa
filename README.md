@@ -1,5 +1,7 @@
 Summa
 =====
+[![Build Status](https://travis-ci.org/yaa110/Summa.svg?branch=master)](https://travis-ci.org/yaa110/Summa)
+
 Practical examples of C programming language to save the day
 
 ## Examples
